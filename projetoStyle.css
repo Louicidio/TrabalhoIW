@@ -110,6 +110,7 @@ body {
     font-size: 6em;
     text-transform: uppercase;
     padding: 0.5em;
+    padding-right: 2.5em;
 }
 
 /* SEÇÃO DE INFORMAÇÃO */
@@ -190,6 +191,7 @@ body {
     font-weight: 200;
     font-size: 6em;
     text-transform: uppercase;
+    
 }
 
 .title__section__main button {
